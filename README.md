@@ -27,3 +27,7 @@ Insights on customer transactions are provided.
 ## sqldb.py
 
 This python file consists of a custom class that has methods to parse the query and also to plot the data.
+
+## CaseStudy.ppt
+
+Provides detail analysis and insight on the project metrics
