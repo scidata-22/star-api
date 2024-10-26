@@ -30,4 +30,4 @@ This python file consists of a custom class that has methods to parse the query 
 
 ## CaseStudy.ppt
 
-Provides detail analysis and insight on the project metrics
+Illustrates Data assumptions and recommendations for better project metrics
